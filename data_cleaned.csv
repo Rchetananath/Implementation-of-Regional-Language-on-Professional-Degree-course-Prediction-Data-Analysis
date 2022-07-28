@@ -1,0 +1,492 @@
+gender,mother_tongue,mother_tongue_rating,no_of_fluent_languages,state,resided_in_the_same_city_from_birth,teaching_language_preference,notes_language_preference,questionpaper_language_preference,exam_in_regional_language,teaching_in_regional_language,knowledge_improvement
+Female,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Regional language,Yes,Yes,Yes
+Female,Kannada,5.0,3,Karnataka,Yes,English language,English language,English language,Yes,No,No
+Male,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,Yes
+Female,Kannada,4.0,3,Karnataka,No,English language,English language,English language,Maybe,Maybe,Yes
+Female,Kannada,5.0,5,Karnataka,Yes,Regional language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Telugu,5.0,5,Karnataka,Yes,English language,English language,English language,No,Yes,Maybe
+Female,Marati,3.0,4,Karnataka,No,Hybrid language,English language,English language,No,No,Maybe
+Male,Tamil,4.0,4,Karnataka,No,English language,English language,English language,Maybe,Maybe,No
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,Hybrid language,No,Maybe,Yes
+Male,Telugu,5.0,2,Telangana,No,English language,English language,English language,Yes,Maybe,No
+Male,Kannada,4.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,No
+Female,Kannada,2.0,4,Karnataka,No,Hybrid language,English language,English language,No,No,Yes
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,English language,Yes,Maybe,Maybe
+Male,Marwadi,4.0,4,Karnataka,Yes,English language,English language,English language,No,No,Maybe
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,English language,English language,No,No,Maybe
+Male,Telugu,3.0,3,Karnataka,No,Hybrid language,English language,English language,No,Maybe,Maybe
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,Maybe
+Male,Kannada,5.0,5,Karnataka,Yes,Regional language,English language,English language,No,Maybe,Maybe
+Female,Telugu,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,No
+Male,Kannada,5.0,5,Karnataka,No,Regional language,Regional language,Regional language,Yes,Maybe,No
+Female,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,No,Maybe
+Male,Telugu,4.0,4,Karnataka,Yes,Hybrid language,English language,English language,Yes,Maybe,Maybe
+Female,Kannada,3.0,2,Karnataka,No,Hybrid language,Hybrid language,English language,Maybe,No,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Hybrid language,Yes,Maybe,No
+Female,Telugu,5.0,4,Karnataka,No,Regional language,English language,English language,Maybe,No,Yes
+Male,Konkani,4.0,4,Karnataka,No,Hybrid language,English language,English language,No,No,Yes
+Male,Telugu,5.0,4,Andhra pradesh,Yes,English language,English language,English language,Yes,Maybe,No
+Female,Telugu,4.0,3,Karnataka,No,English language,English language,English language,No,Maybe,No
+Female,Kannada,5.0,4,Karnataka,No,Hybrid language,English language,English language,No,Maybe,No
+Female,Telugu,4.0,4,Andhra pradesh,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,No,Yes
+Female,Kannada,4.0,4,Karnataka,No,Hybrid language,English language,English language,No,No,Maybe
+Female,Tulu,4.0,4,Karnataka,Yes,Hybrid language,English language,English language,No,No,Yes
+Female,Kannada,5.0,3,Karnataka,No,Hybrid language,English language,English language,Yes,Maybe,Maybe
+Female,Urdu,3.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,No,No
+Male,Kannada,5.0,2,Karnataka,No,Hybrid language,Hybrid language,English language,Maybe,No,Yes
+Female,Telugu,3.0,2,Karnataka,Yes,English language,English language,English language,Maybe,Maybe,Maybe
+Male,Kannada,5.0,4,Karnataka,No,Regional language,Regional language,Regional language,Yes,Maybe,Maybe
+Male,Telugu,3.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,No
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Female,Kannada,5.0,2,Karnataka,No,Hybrid language,English language,English language,Yes,Maybe,Maybe
+Female,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,Maybe,Maybe,No
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,English language,No,Maybe,Yes
+Female,Kannada,5.0,2,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,No
+Male,Kannada,4.0,2,Karnataka,Yes,English language,English language,English language,No,Maybe,Yes
+Male,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Maybe
+Female,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,Maybe,No
+Male,Kannada,5.0,2,Karnataka,No,Regional language,Regional language,Regional language,Yes,Maybe,Yes
+Male,Kannada,4.0,3,Karnataka,No,Regional language,Hybrid language,Hybrid language,Yes,Maybe,Maybe
+Female,Telugu,4.0,2,Andhra pradesh,Yes,Regional language,English language,English language,No,No,Maybe
+Female,Telugu,5.0,3,Telangana,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,No
+Female,Telugu,5.0,2,Andhra pradesh,Yes,Regional language,English language,English language,Yes,Maybe,Yes
+Male,Kannada,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,No,No
+Male,Telugu,5.0,3,Telangana,Yes,Hybrid language,English language,English language,Yes,Maybe,No
+Male,Kannada,5.0,3,Karnataka,No,English language,English language,English language,Maybe,Maybe,Maybe
+Male,Kannada,5.0,5,Karnataka,Yes,Regional language,English language,English language,Maybe,No,Maybe
+Female,Kannada,5.0,2,Karnataka,No,Hybrid language,English language,English language,No,No,No
+Female,Kannada,3.0,3,Karnataka,No,Hybrid language,English language,English language,No,No,Maybe
+Female,Kannada,4.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,No,Maybe
+Male,Kannada,5.0,2,Karnataka,No,English language,English language,English language,Maybe,No,No
+Female,Telugu,3.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,"Kannada, malayalam",4.0,4,Karnataka,No,Hybrid language,English language,English language,No,Yes,Maybe
+Male,Kannada,3.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,No,No
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,No,Yes
+Female,Kannada,1.0,4,Telangana,No,Hybrid language,English language,English language,No,No,Maybe
+Female,Telugu,5.0,2,Telangana,Yes,Regional language,English language,English language,Yes,Yes,No
+Female,Hindi,5.0,3,Telangana,No,English language,English language,English language,No,Maybe,No
+Male,Telugu,5.0,3,Andhra pradesh,Yes,Hybrid language,English language,English language,No,Yes,Yes
+Female,Telugu,5.0,2,Tamil nadu,Yes,Regional language,Hybrid language,English language,No,Maybe,No
+Female,Telugu,5.0,3,Telangana,No,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Hindi,4.0,4,Andhra pradesh,Yes,Hybrid language,English language,Hybrid language,Yes,Maybe,No
+Female,Telugu,5.0,4,Telangana,No,Hybrid language,Hybrid language,English language,Yes,Maybe,Maybe
+Female,Telugu,4.0,3,Telangana,Yes,Hybrid language,English language,English language,No,Yes,Maybe
+Female,Malayalam,5.0,4,Kerala,Yes,Hybrid language,Hybrid language,English language,No,No,Yes
+Female,Tamil,5.0,5,Tamil nadu,No,Hybrid language,Hybrid language,English language,Maybe,Yes,Yes
+Male,Telugu,5.0,2,Andhra pradesh,Yes,Regional language,English language,English language,Maybe,Yes,No
+Female,Telugu,4.0,5,Telangana,Yes,Hybrid language,English language,English language,Maybe,Yes,Yes
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,English language,No,Maybe,No
+Female,Telugu,4.0,3,Telangana,Yes,English language,English language,English language,Maybe,Maybe,Yes
+Female,Telugu,4.0,2,Telangana,Yes,Hybrid language,English language,English language,Maybe,Yes,No
+Female,Telugu,4.0,3,Telangana,Yes,Hybrid language,English language,English language,No,Maybe,Maybe
+Female,Telugu,5.0,2,Telangana,Yes,Hybrid language,English language,English language,No,Yes,No
+Female,Hindi,5.0,3,Telangana,No,Hybrid language,English language,English language,No,Yes,Maybe
+Female,Telugu,4.0,3,Telangana,Yes,Hybrid language,English language,English language,No,Yes,No
+Female,Telugu,5.0,3,Telangana,No,Hybrid language,English language,English language,Maybe,Yes,No
+Male,Punjabi,4.0,3,Karnataka,No,English language,English language,English language,No,Maybe,No
+Female,Malayalam,4.0,2,Tamil nadu,No,Hybrid language,English language,English language,Yes,Yes,Maybe
+Male,Telugu,4.0,4,Karnataka,No,English language,English language,English language,No,No,Maybe
+Male,Hindi,5.0,2,Telangana,No,English language,English language,English language,Maybe,Maybe,No
+Male,Telugu,5.0,3,Telangana,No,English language,English language,English language,No,Yes,No
+Female,Kannada,5.0,2,Karnataka,No,English language,English language,English language,Yes,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Telugu,4.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,Maybe
+Male,Telugu,5.0,4,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,No
+Male,Kannada,4.0,3,Karnataka,No,Hybrid language,English language,Hybrid language,Maybe,No,No
+Female,Telugu,4.0,3,Telangana,Yes,Hybrid language,Hybrid language,Regional language,Yes,Maybe,Maybe
+Male,Sanskrit,5.0,14,Uttarakhand,No,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Maybe
+Female,Konkani,5.0,5,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,No,No
+Female,Kannada,5.0,3,Karnataka,No,Regional language,Regional language,Regional language,Yes,Yes,No
+Female,Telugu,3.0,3,Telangana,Yes,Hybrid language,English language,English language,Yes,Yes,Yes
+Male,Telugu,4.0,3,Telangana,No,Hybrid language,English language,English language,Maybe,Maybe,No
+Female,Telugu,4.0,3,Telangana,Yes,Hybrid language,English language,English language,No,Yes,Maybe
+Male,Kannada,5.0,3,Karnataka,No,Hybrid language,English language,English language,No,No,Yes
+Female,Kannada,5.0,3,Karnataka,No,Hybrid language,English language,English language,No,No,No
+Female,Kannada,4.0,2,Karnataka,No,Hybrid language,English language,English language,Yes,Maybe,Maybe
+Male,Hindi,5.0,3,Delhi,No,Hybrid language,Hybrid language,English language,No,Maybe,Yes
+Female,Kannada,4.0,4,Karnataka,No,Hybrid language,English language,English language,No,No,Maybe
+Female,Bengali,5.0,3,West bengal,No,Hybrid language,English language,English language,No,Maybe,Maybe
+Male,Kannada,3.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,No,Yes
+Male,Kannada,5.0,5,Karnataka,Yes,Hybrid language,English language,English language,No,Yes,Yes
+Male,Gujarati,5.0,3,Tamil nadu,No,English language,English language,English language,Maybe,No,No
+Female,Kannada,3.0,2,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,No
+Male,Telugu,4.0,5,Telangana,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,No
+Male,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,Yes,Yes
+Female,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,Yes,No
+Female,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Maybe,No
+Male,Kannada,5.0,5,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,No
+Female,Konkani,4.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,No
+Male,Kannada,5.0,2,Karnataka,No,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Kannada,4.0,2,Karnataka,No,Hybrid language,Hybrid language,English language,Yes,No,Yes
+Female,Kannada,5.0,2,Karnataka,No,English language,English language,English language,Yes,No,Yes
+Female,Telugu,4.0,3,Karnataka,No,English language,English language,English language,Yes,Yes,Yes
+Female,Telugu,5.0,3,Telangana,Yes,English language,English language,English language,Maybe,Yes,No
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,No
+Female,Bengali,5.0,3,West bengal,No,Hybrid language,Hybrid language,English language,No,Maybe,Maybe
+Male,Kannada,5.0,5,Karnataka,Yes,Hybrid language,English language,English language,No,No,Yes
+Female,Telugu,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,English language,No,No,Maybe
+Female,Urdu,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,No,Maybe
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,No,Yes,Yes
+Female,Urdu,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,No,Maybe
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Regional language,English language,Maybe,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,No,No
+Female,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Yes,No
+Female,Urdu,2.0,2,Kartkath,Yes,English language,English language,English language,No,Yes,Yes
+Male,Urdu,5.0,5,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,Yes,No
+Prefer not to say,Telugu,4.0,5,Karnataka,Yes,Hybrid language,Hybrid language,English language,Maybe,Maybe,Maybe
+Male,Kannada,5.0,2,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Kannada,4.0,4,Karnataka,No,English language,English language,English language,No,Maybe,Maybe
+Male,Hindi,4.0,2,Karnataka,No,Regional language,English language,English language,Yes,Maybe,Maybe
+Female,Kannada,5.0,4,Karnataka,Yes,Regional language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Kannada,4.0,3,Karnataka,Yes,English language,English language,English language,Yes,Maybe,Maybe
+Female,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,No
+Male,Telugu,3.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,Maybe,No
+Female,Hindi,5.0,5,Karnataka,Yes,Hybrid language,English language,English language,No,No,No
+Female,Kannada,5.0,2,Karnataka,No,Hybrid language,Hybrid language,English language,Yes,Yes,No
+Male,Kannada,1.0,5,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Konkani,5.0,4,Up,No,Hybrid language,Hybrid language,Regional language,Yes,No,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,Hybrid language,Yes,No,No
+Male,Kannada,5.0,2,Karnataka,No,Hybrid language,English language,English language,Maybe,Yes,Yes
+Male,Konkani,5.0,3,Karnataka,No,Hybrid language,Hybrid language,English language,No,Maybe,No
+Male,Kannada,4.0,4,Karnataka,Yes,Hybrid language,English language,English language,Maybe,Maybe,No
+Male,Urdu/hindi,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,Yes,No
+Male,Kannada,5.0,5,Karnataka,Yes,Regional language,Regional language,Regional language,No,Yes,Yes
+Female,Kannada,5.0,3,Karnataka,Yes,English language,English language,English language,No,Maybe,No
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,No
+Male,Kannada,5.0,4,Karnataka,Yes,Hybrid language,English language,English language,Maybe,Yes,No
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,English language,English language,Maybe,Maybe,Maybe
+Female,Kannada,5.0,2,Karnataka,No,English language,English language,English language,No,Yes,No
+Male,Telugu,5.0,3,Andhra pradesh,No,Hybrid language,Hybrid language,English language,Maybe,Yes,Maybe
+Female,Kannada,5.0,3,Karnataka,No,English language,English language,English language,Maybe,No,No
+Male,Kannada,5.0,2,Karnataka,No,English language,English language,English language,Maybe,Yes,No
+Female,Kannada,5.0,2,Karnataka,No,English language,English language,English language,No,Maybe,No
+Female,Marathi,4.0,4,Karnataka,Yes,Hybrid language,Hybrid language,English language,Yes,No,Yes
+Female,Tamil,5.0,5,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Yes,No
+Male,Kannada,1.0,4,Karnataka,No,Regional language,Hybrid language,Hybrid language,Yes,Yes,No
+Female,Telugu,5.0,8,Karnataka,Yes,English language,Hybrid language,English language,No,Maybe,Maybe
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,English language,English language,No,No,No
+Male,Tamil,2.0,2,Karnataka,No,Regional language,Regional language,Regional language,Yes,Yes,No
+Female,Kannada,5.0,3,Karnataka,No,English language,English language,English language,No,No,Yes
+Female,Telugu,5.0,4,Karnataka,Yes,English language,English language,Hybrid language,No,No,Maybe
+Male,Tamil,1.0,3,Chennai,No,Hybrid language,Hybrid language,Hybrid language,No,Yes,No
+Female,Telugu,4.0,2,Telangana,No,Hybrid language,Hybrid language,English language,Yes,Maybe,No
+Female,Kannada,3.0,3,Karnataka,No,Hybrid language,English language,English language,No,No,No
+Female,Kannada,5.0,6,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Female,"Telugu,tamil",2.0,4,Karnataka,Yes,English language,English language,English language,No,Yes,No
+Male,Kannada,1.0,4,Karnataka,Yes,English language,English language,Hybrid language,No,Yes,No
+Male,Kannada,5.0,3,Up,Yes,Hybrid language,Regional language,Regional language,Yes,Yes,No
+Female,Telugu,5.0,4,Tamil nadu,No,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Telugu,5.0,3,Andhra pradesh,No,Regional language,English language,English language,Maybe,Yes,No
+Male,Malayalam,2.0,3,Chennai,No,English language,English language,Hybrid language,No,No,Yes
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,English language,English language,Maybe,No,Yes
+Female,Kannada,5.0,4,Karnataka,No,English language,English language,English language,Maybe,Maybe,Maybe
+Female,Urdu,5.0,2,Karnataka,Yes,English language,English language,English language,No,No,Maybe
+Male,Kannada,1.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Konkani,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Telugu,5.0,2,Andhra pradesh,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Maybe
+Male,Tamil,4.0,5,Karnataka,Yes,English language,English language,English language,Yes,Yes,No
+Male,Kannada,5.0,2,Karnataka,Yes,Hybrid language,English language,English language,Maybe,No,Yes
+Female,Marathi,5.0,6,Karnataka,Yes,English language,English language,English language,No,Yes,No
+Female,Kannada,5.0,3,Karnataka,Yes,Regional language,Hybrid language,Regional language,Yes,Yes,Yes
+Female,Hindi,3.0,3,Telangana,No,English language,Hybrid language,English language,No,No,No
+Male,Telugu,5.0,3,Andhra pradesh,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Maybe
+Female,Telugu,3.0,3,Telangana,No,Hybrid language,Hybrid language,English language,No,Maybe,Maybe
+Female,Telugu,4.0,5,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,No,Yes
+Male,Bengali,4.0,4,Telangana,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Telugu,5.0,3,Andhra pradesh,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Maybe
+Male,Malayalam,5.0,3,Kerala,No,Hybrid language,English language,English language,No,No,No
+Male,Telugu,4.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Tamil,2.0,5,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,Yes,Yes
+Female,Telugu,4.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Telugu,4.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Telugu,5.0,3,Andhra pradesh,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Maybe
+Male,Tamil,4.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Kannada,1.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Maybe
+Female,Telugu,5.0,4,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Kannada,1.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Female,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Kannada,5.0,3,Karnataka,No,Hybrid language,English language,English language,Yes,Maybe,Maybe
+Male,Telugu,5.0,3,Tamil nadu,No,English language,English language,English language,Yes,Yes,Yes
+Male,Kannada,2.0,4,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Yes,No
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Maybe,Yes,No
+Male,Telugu,1.0,3,Andhra pradesh,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Telugu,3.0,4,Andhra pradesh,No,English language,English language,English language,No,No,Yes
+Female,Kannada,5.0,1,Bangalore,Yes,Regional language,Regional language,Hybrid language,Yes,Yes,No
+Female,Tamil,3.0,4,Karnataka,No,English language,English language,English language,No,No,Yes
+Male,Telugu,5.0,4,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,Yes,No
+Male,Kannada,2.0,5,Karnataka,No,English language,English language,English language,No,No,Yes
+Male,Tamil,3.0,3,Karnataka,No,Regional language,Regional language,Regional language,Yes,Yes,No
+Female,Telugu,4.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,Yes,No
+Male,Kannada,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,Maybe
+Male,Telugu,5.0,3,Karnataka,No,Hybrid language,English language,English language,Maybe,No,Maybe
+Female,Kannada,4.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Telugu,3.0,5,Karnataka,No,English language,English language,English language,No,Yes,No
+Male,Kannada,4.0,5,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,Yes,No
+Male,Telugu,5.0,4,Andhra pradesh,Yes,English language,English language,English language,Maybe,Yes,Yes
+Male,Tamil,2.0,4,Karnataka,No,English language,English language,English language,No,Yes,No
+Male,Malayalam,3.0,3,Karnataka,No,English language,English language,English language,No,No,Yes
+Female,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,Yes,Yes,No
+Male,Kannada,5.0,3,Karnataka,Yes,English language,English language,English language,No,Maybe,Maybe
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Regional language,Hybrid language,No,No,Yes
+Male,Kannada,2.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Female,Telugu,5.0,2,Telangana,No,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,No
+Female,Kannada,5.0,3,Karnataka,No,English language,English language,English language,No,No,Yes
+Male,Kannada,5.0,1,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,No
+Male,Tamil,3.0,2,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Male,Kannada,4.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Kannada,2.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,Yes,No
+Male,Malayalam,5.0,3,Kerala,Yes,Hybrid language,English language,English language,No,Maybe,Yes
+Female,Kannada,2.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Malayalam,4.0,3,Kerala,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Malayalam,5.0,5,Kerala,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,No
+Male,Konkani,4.0,4,Karnataka,Yes,Hybrid language,English language,English language,Maybe,No,Yes
+Male,Tamil,4.0,4,Karnataka,No,English language,English language,English language,No,No,Yes
+Female,Kannada,4.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,No,Maybe
+Male,Telugu,5.0,2,Andhra pradesh,Yes,English language,Regional language,Regional language,Yes,Yes,Yes
+Female,Telugu,3.0,4,Karnataka,Yes,Hybrid language,English language,English language,Yes,Yes,Yes
+Male,Telugu,3.0,3,Telangana,No,English language,English language,English language,No,No,Maybe
+Male,Telugu,5.0,2,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Maybe
+Female,Hindi,5.0,3,Karnataka,No,Hybrid language,English language,English language,No,Maybe,Maybe
+Female,Telangana,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,English language,English language,Maybe,Yes,No
+Female,Kannada,5.0,5,Karnataka,No,Regional language,Regional language,Hybrid language,No,Yes,No
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,English language,English language,Yes,Yes,Yes
+Female,Telugu,5.0,2,Telangana,Yes,English language,English language,English language,Yes,Maybe,Maybe
+Prefer not to say,Kannada,4.0,5,Karnataka,Yes,Hybrid language,Hybrid language,English language,Maybe,No,Maybe
+Female,Kannada,5.0,2,Karnataka,No,Hybrid language,Hybrid language,Regional language,Yes,Yes,Maybe
+Male,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Yes,Maybe
+Female,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,Hybrid language,No,No,Yes
+Female,Telugu,3.0,3,Telangana,Yes,Regional language,Regional language,Regional language,No,No,Yes
+Male,Telugu,4.0,2,Telangana,Yes,Hybrid language,English language,English language,No,Yes,Yes
+Male,Telugu,5.0,3,Telangana,Yes,English language,English language,English language,Maybe,No,Yes
+Female,Telugu,5.0,3,Telangana,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Yes,Yes
+Male,Telugu,5.0,4,Telangana,No,Hybrid language,English language,English language,Maybe,Maybe,No
+Male,Kannada,5.0,3,Karnataka,No,Regional language,Regional language,Regional language,Maybe,Yes,Yes
+Female,Kannada,4.0,4,Karnataka,Yes,English language,English language,Regional language,Yes,Yes,No
+Female,Telugu,3.0,5,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,No
+Female,Kannada,4.0,6,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Kannada,5.0,4,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Kannada,5.0,3,Karnataka,Yes,English language,English language,English language,Yes,Yes,No
+Male,Hindi,5.0,4,Andhra pradesh,No,Regional language,English language,Hybrid language,Maybe,Yes,No
+Male,Kannada,4.0,2,Karnataka,No,English language,English language,English language,Maybe,Maybe,Maybe
+Male,Kannada,5.0,2,Karnataka,Yes,English language,English language,English language,Yes,Maybe,No
+Female,Telugu,5.0,4,Karnataka,Yes,Hybrid language,English language,Hybrid language,No,Yes,Yes
+Male,Kannada,5.0,2,Karnataka,Yes,Hybrid language,English language,English language,No,Maybe,No
+Male,Malayalam,5.0,3,Tamil nadu,No,English language,English language,English language,No,No,Yes
+Male,Telugu,4.0,3,Telangana,Yes,Hybrid language,English language,English language,No,Maybe,Maybe
+Female,Telugu,5.0,5,Tamil nadu,No,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,4.0,2,Karnataka,No,Hybrid language,English language,Hybrid language,No,No,No
+Female,Hindi,5.0,3,Karnataka,No,English language,English language,English language,No,No,Yes
+Male,Telugu,5.0,5,Karnataka,Yes,Hybrid language,English language,English language,Yes,Yes,Yes
+Male,Telugu,4.0,4,Karnataka,Yes,Hybrid language,English language,English language,Maybe,Maybe,Maybe
+Female,Kannada,5.0,5,Karnataka,Yes,English language,English language,English language,Yes,Yes,Yes
+Female,Tamil,5.0,5,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Konkani,5.0,5,Karnataka,No,Regional language,English language,English language,Yes,Yes,Yes
+Male,Telugu,5.0,3,Telangana,No,English language,English language,English language,Yes,Yes,Maybe
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Kannada,4.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,Yes
+Male,Telugu,4.0,3,Telangana,Yes,Regional language,Hybrid language,English language,No,Yes,Yes
+Male,Tulu,3.0,4,Karnataka,Yes,English language,English language,English language,No,No,Maybe
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Kannada,5.0,2,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,No
+Male,Kannada,5.0,1,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Telugu,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,No
+Male,Telugu,5.0,2,Andhra pradesh,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Hindi,5.0,2,Telangana,No,Regional language,Regional language,Regional language,Yes,Yes,No
+Female,Kannada,5.0,2,Karnataka,No,Hybrid language,English language,English language,Maybe,Yes,Yes
+Female,Telugu,5.0,3,Hyderabad,No,Hybrid language,English language,Hybrid language,Maybe,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,No,English language,English language,English language,Maybe,No,No
+Male,Tamil,5.0,4,Karnataka,No,Hybrid language,Hybrid language,English language,Maybe,No,Yes
+Male,Hindi,5.0,5,Karnataka,No,Hybrid language,Hybrid language,English language,Yes,No,No
+Male,Tamil,5.0,3,Tamil nadu,Yes,Hybrid language,Hybrid language,Regional language,No,Maybe,No
+Female,Kannada,5.0,6,Karnataka,Yes,Hybrid language,Regional language,Regional language,Yes,Yes,Yes
+Female,Telugu,5.0,5,Karnataka,No,English language,English language,English language,Maybe,Maybe,Maybe
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,Yes,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Hybrid language,Maybe,Yes,No
+Female,Telugu,5.0,5,Karnataka,Yes,Hybrid language,English language,Hybrid language,Yes,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Maybe,Yes,No
+Male,Kannada,4.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,No,No
+Male,Kannada,5.0,4,Karnataka,Yes,Regional language,Regional language,Regional language,Maybe,Yes,No
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Maybe,Yes,No
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Maybe,Yes,No
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Maybe,No
+Male,Kannada,3.0,2,Karnataka,Yes,Hybrid language,English language,English language,No,No,Maybe
+Male,Kannada,5.0,3,Karnataka,No,Regional language,Regional language,Hybrid language,Yes,Maybe,Maybe
+Male,Kannada,5.0,5,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,5.0,4,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Kannada,5.0,2,Karnataka,No,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Telugu,3.0,3,Telangana,Yes,Regional language,English language,English language,Yes,Yes,No
+Male,Kannada,5.0,1,Karnataka,Yes,Regional language,Regional language,Hybrid language,Maybe,Maybe,No
+Female,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,English language,English language,Maybe,Yes,Maybe
+Male,Marathi,5.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,No,Yes
+Female,Kannada,4.0,5,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Telugu,5.0,4,Telangana,No,Hybrid language,English language,English language,No,Yes,Maybe
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Female,Telugu,5.0,2,Telangana,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Hindi,5.0,2,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Maybe
+Male,Telugu,5.0,2,Telangana,Yes,Regional language,Regional language,Regional language,Yes,Yes,Maybe
+Male,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,Maybe
+Male,Telugu,5.0,3,Telangana,Yes,Hybrid language,English language,English language,Maybe,Yes,Maybe
+Male,Telugu,5.0,1,Andhra pradesh,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Tamil,5.0,3,Tamil nadu,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Female,Telugu,5.0,7,Karnataka,Yes,Regional language,Hybrid language,English language,Yes,Yes,Maybe
+Male,Tamil,5.0,2,Tamil nadu,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,No
+Male,Telugu,5.0,1,Andhra pradesh,No,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Telugu,4.0,4,Karnataka,No,Hybrid language,Hybrid language,English language,No,No,Yes
+Male,Kannada,3.0,5,Karnataka,Yes,Hybrid language,English language,English language,No,No,Maybe
+Female,Kannada,5.0,2,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,No
+Female,Kannada,4.0,3,Karnataka,No,Hybrid language,English language,English language,No,No,Yes
+Male,Hindi,4.0,2,Jharkhand,No,Hybrid language,Hybrid language,Hybrid language,Maybe,No,Maybe
+Female,Telugu,4.0,5,Karnataka,No,English language,English language,English language,Maybe,Yes,No
+Male,Tamil,5.0,5,Karnataka,No,Hybrid language,English language,English language,No,No,Maybe
+Male,Tamil,5.0,2,Tamil nadu,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Female,Tulu,4.0,4,Karnataka,No,Hybrid language,English language,English language,No,No,Maybe
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Female,Kannada,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,Maybe,Yes
+Male,Hindi,5.0,2,Telangana,No,Hybrid language,English language,English language,Maybe,Yes,Maybe
+Male,Kannada,5.0,3,Karnataka,No,Hybrid language,English language,English language,Maybe,Maybe,No
+Male,Telugu,5.0,3,Telangana,No,Regional language,English language,English language,Yes,Yes,Yes
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,Yes
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,English language,English language,Maybe,Maybe,Maybe
+Male,Kannada,5.0,2,Karnataka,Yes,English language,English language,English language,No,No,Yes
+Female,Kannada,5.0,1,Karnataka,No,Regional language,English language,English language,No,Maybe,Yes
+Male,Kannada,5.0,1,Karnataka,Yes,Hybrid language,English language,Hybrid language,Yes,Maybe,Yes
+Male,Telugu,3.0,5,Karnataka,Yes,Hybrid language,English language,English language,Yes,Yes,No
+Female,Kannada,5.0,2,Karnataka,No,Regional language,English language,English language,No,Yes,Yes
+Female,Sanketi,4.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Maybe,Maybe
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Kannada,4.0,5,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,No
+Prefer not to say,Telugu,4.0,3,Karnataka,Yes,Hybrid language,Hybrid language,English language,Maybe,No,No
+Male,Kannada,4.0,2,Karnataka,Yes,English language,English language,English language,No,Maybe,Maybe
+Female,Telugu,5.0,3,Telangana,No,Hybrid language,Hybrid language,Regional language,Yes,Yes,Yes
+Female,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,No
+Male,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,English language,No,Yes,No
+Female,Telugu,5.0,3,Telangana,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,No
+Female,Kannada,4.0,3,Karnataka,No,Hybrid language,English language,English language,Maybe,No,Maybe
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Yes,No
+Female,Telugu,5.0,2,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Yes
+Female,Telugu,5.0,4,Karnataka,No,English language,Regional language,Hybrid language,Maybe,Yes,Yes
+Female,Telugu,5.0,6,Karnataka,No,Hybrid language,English language,English language,No,No,Yes
+Female,Tamil,5.0,4,Karnataka,Yes,English language,English language,English language,Maybe,Yes,No
+Male,Telugu,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Yes,No
+Female,Kannada,5.0,7,Karnataka,Yes,English language,English language,English language,Maybe,Yes,No
+Female,Tamil,3.0,4,Karnataka,Yes,English language,English language,English language,No,No,Maybe
+Male,Coorgi,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,Yes,Maybe
+Male,Tamil,4.0,3,Karnataka,No,Hybrid language,English language,English language,No,Yes,Maybe
+Male,Kannada,5.0,3,Karnataka,No,Hybrid language,English language,English language,No,Yes,Maybe
+Male,Tamil,1.0,3,Karnataka,Yes,Hybrid language,English language,English language,No,No,No
+Male,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Yes,Yes
+Female,Kannada,5.0,2,Karnataka,Yes,Hybrid language,English language,English language,No,Maybe,No
+Female,Kannada,5.0,4,Karnataka,Yes,Hybrid language,English language,English language,No,Maybe,No
+Female,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Female,Telugu,5.0,4,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Kannada,5.0,4,Karnataka,Yes,Regional language,Regional language,Regional language,Maybe,Yes,Yes
+Female,Bengali,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Male,Kannada,4.0,3,Karnataka,Yes,English language,English language,Hybrid language,Maybe,Yes,Yes
+Male,Kannada,5.0,4,Karnataka,Yes,Regional language,Regional language,Regional language,Maybe,Maybe,Maybe
+Male,Telugu,4.0,3,Telangana,No,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Kannada,5.0,3,Karnataka,No,Regional language,Regional language,Regional language,Yes,Maybe,Maybe
+Male,Hindi,4.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Male,Kannada,5.0,5,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Male,Hindi,4.0,1,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Male,Tamil,5.0,5,Tamil nadu,No,Hybrid language,Hybrid language,Hybrid language,No,Maybe,Maybe
+Male,Telugu,3.0,7,Karnataka,Yes,English language,English language,English language,No,No,Yes
+Female,Telugu,5.0,5,Telangana,No,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Kannada,4.0,4,Karnataka,Yes,Hybrid language,Hybrid language,English language,Yes,Yes,Yes
+Female,Hindi,4.0,6,Tamil nadu,Yes,Hybrid language,Regional language,Hybrid language,No,No,Yes
+Female,Telugu,5.0,5,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Telugu,4.0,5,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Male,Kannada,5.0,2,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Kannada,5.0,2,Karnataka,No,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Tamil,5.0,5,Tamil nadu,No,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,No,Regional language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Telugu,5.0,3,Andhra pradesh,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Kannada,5.0,4,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Marati,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Telugu,5.0,2,Telangana,No,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Telugu,5.0,3,Telangana,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Tamil,5.0,3,Tamil nadu,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Female,Tamil,5.0,3,Tamil nadu,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Female,Tamil,5.0,4,Karnataka,Yes,English language,English language,English language,No,No,Maybe
+Male,Tamil,5.0,4,Maharashtra,No,Hybrid language,Hybrid language,Hybrid language,Yes,No,Yes
+Male,Tamil,5.0,5,Tamil nadu,Yes,Regional language,Hybrid language,Hybrid language,Maybe,No,Yes
+Female,Telugu,4.0,3,Telangana,No,Hybrid language,Hybrid language,English language,Maybe,No,No
+Male,Marathi,3.0,4,Karnataka,Yes,Hybrid language,English language,English language,Yes,Yes,Maybe
+Female,Kannada,4.0,2,Karnataka,Yes,Hybrid language,English language,English language,Maybe,Maybe,No
+Male,Urdu,5.0,3,Karnataka,No,Hybrid language,English language,English language,No,Yes,Maybe
+Female,Kannada,4.0,3,Karnataka,Yes,Hybrid language,English language,English language,Yes,Yes,No
+Female,Kannada,5.0,3,Karnataka,No,Hybrid language,English language,English language,Yes,Maybe,No
+Female,Telugu,5.0,4,Telangana,No,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Telugu,5.0,4,Telangana,No,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Telugu,5.0,3,Telangana,No,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Telugu,5.0,3,Telangana,No,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Male,Telugu,5.0,3,Telangana,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Telugu,5.0,3,Telangana,No,English language,English language,English language,No,No,Yes
+Female,Telugu,5.0,2,Telangana,Yes,English language,English language,English language,No,No,Yes
+Female,Telugu,5.0,2,Telangana,Yes,English language,English language,English language,No,No,Yes
+Male,Telugu,5.0,3,Karnataka,No,English language,English language,English language,No,No,Yes
+Female,Telugu,5.0,4,Telangana,Yes,English language,English language,English language,No,No,Yes
+Female,Telugu,5.0,2,Karnataka,Yes,English language,English language,English language,No,No,Yes
+Female,Telugu,5.0,2,Telangana,No,English language,English language,English language,No,No,Yes
+Female,Telugu,5.0,2,Telangana,Yes,English language,English language,English language,No,No,Yes
+Male,Tulu,4.0,3,Karnataka,Yes,English language,English language,English language,Maybe,Maybe,Yes
+Female,Kannada,5.0,5,Karnataka,Yes,English language,English language,English language,Maybe,Maybe,Maybe
+Female,Kannada,4.0,4,Karnataka,Yes,English language,English language,English language,No,No,Yes
+Female,Kannada,4.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,No,Maybe
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Hindi,5.0,3,Karnataka,No,English language,English language,English language,No,Maybe,Maybe
+Female,Telugu,5.0,1,Telangana,No,Regional language,Regional language,Regional language,No,Yes,Maybe
+Female,Telugu,3.0,5,Karnataka,Yes,Hybrid language,English language,English language,No,No,Maybe
+Male,Kannada,5.0,4,Karnataka,Yes,Regional language,English language,English language,Maybe,Yes,No
+Female,Tamil,3.0,3,Karnataka,No,English language,English language,English language,No,No,Maybe
+Male,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,No,No,Yes
+Female,Konkani,4.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Regional language,Yes,Yes,No
+Male,Kannada,4.0,5,Karnataka,Yes,English language,English language,English language,No,No,Yes
+Female,Kannada,5.0,4,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Tamil,5.0,4,Tamil nadu,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,5.0,5,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Telugu,5.0,4,Andhra pradesh,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,5.0,4,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Tamil,5.0,4,Tamil nadu,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Female,Kannada,5.0,2,Karnataka,Yes,English language,English language,English language,Maybe,Maybe,No
+Male,Kannada,5.0,4,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Tamil,4.0,3,Karnataka,No,Hybrid language,Regional language,English language,Yes,Maybe,No
+Male,Telugu,5.0,5,Karnataka,Yes,Hybrid language,Regional language,Regional language,Yes,Yes,No
+Male,Hindi,4.0,5,Karnataka,No,English language,Hybrid language,Regional language,No,Yes,No
+Male,Hindi,5.0,1,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Prefer not to say,Tamil,4.0,1,Tamil nadu,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,5.0,2,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,No,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,No
+Female,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Tamil,5.0,4,Nellore,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Hindi,5.0,4,Maharashtra,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Telugu,5.0,4,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Tamil,5.0,3,Tamil nadu,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,5.0,4,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,5.0,5,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Kannada,5.0,3,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Female,Kannada,5.0,4,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Kannada,4.0,2,Karnataka,No,Hybrid language,English language,English language,No,Yes,Maybe
+Male,Kannada,5.0,3,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Male,Tamil,4.0,2,Karnataka,No,Regional language,Regional language,Regional language,Yes,Yes,No
+Male,Tamil,4.0,2,Tamil nadu,No,English language,English language,English language,No,No,No
+Female,Kannada,5.0,4,Karnataka,Yes,English language,English language,English language,No,Maybe,Yes
+Female,Kannada,5.0,6,Karnataka,Yes,Regional language,Regional language,Regional language,Yes,Yes,Yes
+Male,Telugu,4.0,3,Andhra pradesh,Yes,Hybrid language,Hybrid language,Hybrid language,Maybe,Maybe,Maybe
+Female,Telugu,4.0,5,Karnataka,Yes,English language,English language,English language,No,Yes,Yes
+Male,Telugu,5.0,5,Karnataka,No,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,No
+Male,Kannada,5.0,3,Karnataka,Yes,Hybrid language,Hybrid language,Hybrid language,Yes,Yes,No
